@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "asOf": "2024-12-31",
+  "basis": "price-only",
+  "note": "Year-end closing prices, adjusted for stock splits. These are PRICE levels only: dividends are not reinvested and not counted, so the return this file produces understates the total return of a dividend-paying company (Coca-Cola most of all). Figures are rounded and are here to teach the shape of a return, not to value a position. VERIFY EVERY NUMBER against the sources below before shipping to real users, and re-check after each year-end.",
+  "sources": [
+    {"label": "S&P Dow Jones Indices — S&P 500 index levels", "url": "https://www.spglobal.com/spdji/en/indices/equity/sp-500/"},
+    {"label": "Nasdaq — historical quotes", "url": "https://www.nasdaq.com/market-activity/quotes/historical"},
+    {"label": "Saudi Exchange (Tadawul) — historical prices", "url": "https://www.saudiexchange.sa/"}
+  ],
+  "companies": [
+    {
+      "id": "SPX",
+      "name": "S&P 500 index",
+      "nameAr": "مؤشر S&P 500",
+      "currency": "USD",
+      "isIndex": true,
+      "business": "The 500 largest listed companies in the United States, weighted by market value. Not a company — the benchmark a single stock is measured against.",
+      "businessAr": "أكبر 500 شركة مدرجة في الولايات المتحدة، مرجّحة بالقيمة السوقية. ليست شركة، بل المقياس الذي يُقارن به أي سهم منفرد.",
+      "closes": {
+        "2015": 2043.94, "2016": 2238.83, "2017": 2673.61, "2018": 2506.85,
+        "2019": 3230.78, "2020": 3756.07, "2021": 4766.18, "2022": 3839.50,
+        "2023": 4769.83, "2024": 5881.63
+      }
+    },
+    {
+      "id": "AAPL",
+      "name": "Apple",
+      "nameAr": "أبل",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Hardware sold at a high margin, plus a services business built on the installed base of devices.",
+      "businessAr": "أجهزة تُباع بهامش مرتفع، ومعها أعمال خدمات مبنية على قاعدة الأجهزة المستخدمة.",
+      "closes": {
+        "2015": 26.32, "2016": 28.95, "2017": 42.31, "2018": 39.44,
+        "2019": 73.41, "2020": 132.69, "2021": 177.57, "2022": 129.93,
+        "2023": 192.53, "2024": 250.42
+      }
+    },
+    {
+      "id": "MSFT",
+      "name": "Microsoft",
+      "nameAr": "مايكروسوفت",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Software sold by subscription to businesses, plus cloud infrastructure — revenue that recurs rather than being re-sold each year.",
+      "businessAr": "برمجيات تُباع بالاشتراك للشركات، ومعها بنية سحابية — إيراد متكرّر لا يُعاد بيعه كل سنة من جديد.",
+      "closes": {
+        "2015": 55.48, "2016": 62.14, "2017": 85.54, "2018": 101.57,
+        "2019": 157.70, "2020": 222.42, "2021": 336.32, "2022": 239.82,
+        "2023": 376.04, "2024": 421.50
+      }
+    },
+    {
+      "id": "TSLA",
+      "name": "Tesla",
+      "nameAr": "تسلا",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Electric vehicles, plus energy storage. The clearest example in this list of a price that moved far more than the business did.",
+      "businessAr": "سيارات كهربائية وتخزين طاقة. وهي أوضح مثال في هذه القائمة على سعر تحرّك أكثر بكثير مما تحرّك العمل نفسه.",
+      "closes": {
+        "2015": 16.00, "2016": 14.26, "2017": 20.73, "2018": 22.19,
+        "2019": 27.89, "2020": 235.22, "2021": 352.26, "2022": 123.18,
+        "2023": 248.48, "2024": 403.84
+      }
+    },
+    {
+      "id": "AMZN",
+      "name": "Amazon",
+      "nameAr": "أمازون",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Retail at very thin margins, carried financially by a cloud division that earns most of the profit.",
+      "businessAr": "تجزئة بهوامش رقيقة جدًا، يحملها ماليًا قسم سحابي يحقّق أغلب الربح.",
+      "closes": {
+        "2015": 33.79, "2016": 37.50, "2017": 58.47, "2018": 75.10,
+        "2019": 92.39, "2020": 162.85, "2021": 166.72, "2022": 84.00,
+        "2023": 151.94, "2024": 219.39
+      }
+    },
+    {
+      "id": "GOOGL",
+      "name": "Alphabet",
+      "nameAr": "ألفابت",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Advertising against search and video, which is most of the revenue, plus cloud and a set of loss-making bets.",
+      "businessAr": "إعلانات على البحث والفيديو تمثّل أغلب الإيراد، ومعها الحوسبة السحابية ورهانات خاسرة.",
+      "closes": {
+        "2015": 38.93, "2016": 39.62, "2017": 52.72, "2018": 52.22,
+        "2019": 66.97, "2020": 87.58, "2021": 144.85, "2022": 88.23,
+        "2023": 139.69, "2024": 189.30
+      }
+    },
+    {
+      "id": "NVDA",
+      "name": "NVIDIA",
+      "nameAr": "إنفيديا",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Chips for graphics and, since roughly 2023, for training AI models — a cyclical business that had an extraordinary run.",
+      "businessAr": "شرائح للرسوميات، ومنذ 2023 تقريبًا لتدريب نماذج الذكاء الاصطناعي — عمل دوري مرّ بموجة استثنائية.",
+      "closes": {
+        "2015": 0.82, "2016": 2.67, "2017": 4.83, "2018": 3.34,
+        "2019": 5.88, "2020": 13.05, "2021": 29.41, "2022": 14.61,
+        "2023": 49.52, "2024": 134.29
+      }
+    },
+    {
+      "id": "META",
+      "name": "Meta",
+      "nameAr": "ميتا",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Advertising against social feeds. Fell roughly two thirds in 2022 and more than recovered afterwards — the same company throughout.",
+      "businessAr": "إعلانات على منصات التواصل. هبط نحو الثلثين في 2022 ثم تعافى وزاد — وهي الشركة نفسها طوال الفترة.",
+      "closes": {
+        "2015": 104.66, "2016": 115.05, "2017": 176.46, "2018": 131.09,
+        "2019": 205.25, "2020": 273.16, "2021": 336.35, "2022": 120.34,
+        "2023": 353.96, "2024": 585.51
+      }
+    },
+    {
+      "id": "KO",
+      "name": "Coca-Cola",
+      "nameAr": "كوكا كولا",
+      "currency": "USD",
+      "isIndex": false,
+      "business": "Concentrate sold to bottlers, and a brand. A slow, stable business whose return comes largely from dividends this file does not count.",
+      "businessAr": "بيع المركّزات للمعبّئين، وعلامة تجارية. عمل بطيء ومستقر، وعائده يأتي في معظمه من توزيعات لا يحسبها هذا الملف.",
+      "closes": {
+        "2015": 42.96, "2016": 41.46, "2017": 45.88, "2018": 47.35,
+        "2019": 55.35, "2020": 54.84, "2021": 59.21, "2022": 63.61,
+        "2023": 58.93, "2024": 62.23
+      }
+    },
+    {
+      "id": "2222.SR",
+      "name": "Saudi Aramco",
+      "nameAr": "أرامكو السعودية",
+      "currency": "SAR",
+      "isIndex": false,
+      "business": "Oil and gas. Earnings track the oil price, and most of the return to a holder has come from dividends rather than from the share price.",
+      "businessAr": "النفط والغاز. أرباحها تتبع سعر النفط، وأغلب عائد المساهم جاء من التوزيعات لا من سعر السهم.",
+      "closes": {
+        "2019": 35.00, "2020": 35.30, "2021": 37.00, "2022": 32.60,
+        "2023": 32.60, "2024": 27.70
+      }
+    }
+  ]
+}

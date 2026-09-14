@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "computer-science-role-0",
+    "specialtyId": "computer-science",
+    "nameAr": "مهندس برمجيات",
+    "nameEn": "Software Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "computer-science-role-1",
+    "specialtyId": "computer-science",
+    "nameAr": "باحث حوسبة",
+    "nameEn": "Computing Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "computer-science-role-2",
+    "specialtyId": "computer-science",
+    "nameAr": "مهندس أنظمة",
+    "nameEn": "Systems Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "software-engineering-role-0",
+    "specialtyId": "software-engineering",
+    "nameAr": "مهندس برمجيات",
+    "nameEn": "Software Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "software-engineering-role-1",
+    "specialtyId": "software-engineering",
+    "nameAr": "مهندس جودة",
+    "nameEn": "Quality Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "software-engineering-role-2",
+    "specialtyId": "software-engineering",
+    "nameAr": "مهندس منصات",
+    "nameEn": "Platform Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "computer-engineering-role-0",
+    "specialtyId": "computer-engineering",
+    "nameAr": "مهندس أنظمة مضمنة",
+    "nameEn": "Embedded Systems Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "computer-engineering-role-1",
+    "specialtyId": "computer-engineering",
+    "nameAr": "مهندس عتاد",
+    "nameEn": "Hardware Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "computer-engineering-role-2",
+    "specialtyId": "computer-engineering",
+    "nameAr": "مهندس تحقق رقمي",
+    "nameEn": "Digital Verification Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-technology-role-0",
+    "specialtyId": "information-technology",
+    "nameAr": "مسؤول أنظمة",
+    "nameEn": "Systems Administrator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-technology-role-1",
+    "specialtyId": "information-technology",
+    "nameAr": "أخصائي دعم تقني",
+    "nameEn": "Technical Support Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-technology-role-2",
+    "specialtyId": "information-technology",
+    "nameAr": "مسؤول خدمات تقنية",
+    "nameEn": "IT Services Officer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-systems-role-0",
+    "specialtyId": "information-systems",
+    "nameAr": "محلل نظم",
+    "nameEn": "Systems Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-systems-role-1",
+    "specialtyId": "information-systems",
+    "nameAr": "محلل أعمال",
+    "nameEn": "Business Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-systems-role-2",
+    "specialtyId": "information-systems",
+    "nameAr": "استشاري تطبيقات",
+    "nameEn": "Applications Consultant",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "management-information-systems-role-0",
+    "specialtyId": "management-information-systems",
+    "nameAr": "محلل أعمال تقني",
+    "nameEn": "Technical Business Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "management-information-systems-role-1",
+    "specialtyId": "management-information-systems",
+    "nameAr": "منسق تحول رقمي",
+    "nameEn": "Digital Transformation Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "management-information-systems-role-2",
+    "specialtyId": "management-information-systems",
+    "nameAr": "استشاري نظم مؤسسية",
+    "nameEn": "Enterprise Systems Consultant",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "artificial-intelligence-role-0",
+    "specialtyId": "artificial-intelligence",
+    "nameAr": "مهندس ذكاء اصطناعي",
+    "nameEn": "AI Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "artificial-intelligence-role-1",
+    "specialtyId": "artificial-intelligence",
+    "nameAr": "مهندس تعلم آلة",
+    "nameEn": "Machine Learning Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "artificial-intelligence-role-2",
+    "specialtyId": "artificial-intelligence",
+    "nameAr": "باحث تطبيقي",
+    "nameEn": "Applied Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "machine-learning-role-0",
+    "specialtyId": "machine-learning",
+    "nameAr": "مهندس تعلم آلة",
+    "nameEn": "Machine Learning Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "machine-learning-role-1",
+    "specialtyId": "machine-learning",
+    "nameAr": "مهندس MLOps",
+    "nameEn": "MLOps Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "machine-learning-role-2",
+    "specialtyId": "machine-learning",
+    "nameAr": "عالم بيانات تطبيقي",
+    "nameEn": "Applied Data Scientist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-science-role-0",
+    "specialtyId": "data-science",
+    "nameAr": "عالم بيانات",
+    "nameEn": "Data Scientist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-science-role-1",
+    "specialtyId": "data-science",
+    "nameAr": "محلل تجارب",
+    "nameEn": "Experimentation Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-science-role-2",
+    "specialtyId": "data-science",
+    "nameAr": "مستشار تحليلات",
+    "nameEn": "Analytics Consultant",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-analytics-role-0",
+    "specialtyId": "data-analytics",
+    "nameAr": "محلل بيانات",
+    "nameEn": "Data Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-analytics-role-1",
+    "specialtyId": "data-analytics",
+    "nameAr": "محلل ذكاء أعمال",
+    "nameEn": "Business Intelligence Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-analytics-role-2",
+    "specialtyId": "data-analytics",
+    "nameAr": "محلل منتجات",
+    "nameEn": "Product Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-engineering-role-0",
+    "specialtyId": "data-engineering",
+    "nameAr": "مهندس بيانات",
+    "nameEn": "Data Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-engineering-role-1",
+    "specialtyId": "data-engineering",
+    "nameAr": "مهندس منصات بيانات",
+    "nameEn": "Data Platform Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-engineering-role-2",
+    "specialtyId": "data-engineering",
+    "nameAr": "مهندس تحليلات",
+    "nameEn": "Analytics Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cybersecurity-role-0",
+    "specialtyId": "cybersecurity",
+    "nameAr": "محلل أمن سيبراني",
+    "nameEn": "Cybersecurity Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cybersecurity-role-1",
+    "specialtyId": "cybersecurity",
+    "nameAr": "مهندس أمن",
+    "nameEn": "Security Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cybersecurity-role-2",
+    "specialtyId": "cybersecurity",
+    "nameAr": "مختبر اختراق مصرح",
+    "nameEn": "Licensed Penetration Tester",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-security-role-0",
+    "specialtyId": "information-security",
+    "nameAr": "محلل مخاطر معلومات",
+    "nameEn": "Information Risk Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-security-role-1",
+    "specialtyId": "information-security",
+    "nameAr": "مدقق أمن",
+    "nameEn": "Security Auditor",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "information-security-role-2",
+    "specialtyId": "information-security",
+    "nameAr": "مسؤول حوكمة وامتثال",
+    "nameEn": "Governance and Compliance Officer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-security-role-0",
+    "specialtyId": "cloud-security",
+    "nameAr": "مهندس أمن سحابي",
+    "nameEn": "Cloud Security Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-security-role-1",
+    "specialtyId": "cloud-security",
+    "nameAr": "مهندس DevSecOps",
+    "nameEn": "DevSecOps Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-security-role-2",
+    "specialtyId": "cloud-security",
+    "nameAr": "محلل مخاطر سحابية",
+    "nameEn": "Cloud Risk Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "digital-forensics-role-0",
+    "specialtyId": "digital-forensics",
+    "nameAr": "محلل أدلة رقمية",
+    "nameEn": "Digital Evidence Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "digital-forensics-role-1",
+    "specialtyId": "digital-forensics",
+    "nameAr": "محقق حوادث",
+    "nameEn": "Incident Investigator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "digital-forensics-role-2",
+    "specialtyId": "digital-forensics",
+    "nameAr": "محلل استجابة",
+    "nameEn": "Incident Response Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "network-engineering-role-0",
+    "specialtyId": "network-engineering",
+    "nameAr": "مهندس شبكات",
+    "nameEn": "Network Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "network-engineering-role-1",
+    "specialtyId": "network-engineering",
+    "nameAr": "مسؤول شبكات",
+    "nameEn": "Network Administrator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "network-engineering-role-2",
+    "specialtyId": "network-engineering",
+    "nameAr": "مهندس عمليات شبكية",
+    "nameEn": "Network Operations Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-computing-role-0",
+    "specialtyId": "cloud-computing",
+    "nameAr": "مهندس سحابة",
+    "nameEn": "Cloud Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-computing-role-1",
+    "specialtyId": "cloud-computing",
+    "nameAr": "مهندس منصات",
+    "nameEn": "Platform Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-computing-role-2",
+    "specialtyId": "cloud-computing",
+    "nameAr": "مهندس موثوقية",
+    "nameEn": "Reliability Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "cloud-computing-role-3",
+    "specialtyId": "cloud-computing",
+    "nameAr": "مهندس DevOps/سحابة",
+    "nameEn": "DevOps/Cloud Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "web-development-role-0",
+    "specialtyId": "web-development",
+    "nameAr": "مطوّر واجهات",
+    "nameEn": "Front-End Developer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "web-development-role-1",
+    "specialtyId": "web-development",
+    "nameAr": "مطوّر خلفية",
+    "nameEn": "Back-End Developer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "web-development-role-2",
+    "specialtyId": "web-development",
+    "nameAr": "مطوّر ويب شامل",
+    "nameEn": "Full-Stack Web Developer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "mobile-development-role-0",
+    "specialtyId": "mobile-development",
+    "nameAr": "مطوّر تطبيقات هاتف",
+    "nameEn": "Mobile App Developer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "mobile-development-role-1",
+    "specialtyId": "mobile-development",
+    "nameAr": "مهندس Flutter",
+    "nameEn": "Flutter Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "mobile-development-role-2",
+    "specialtyId": "mobile-development",
+    "nameAr": "مهندس جودة هاتف",
+    "nameEn": "Mobile QA Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "ux-ui-design-role-0",
+    "specialtyId": "ux-ui-design",
+    "nameAr": "مصمم تجربة مستخدم",
+    "nameEn": "UX Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "ux-ui-design-role-1",
+    "specialtyId": "ux-ui-design",
+    "nameAr": "مصمم واجهات",
+    "nameEn": "UI Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "ux-ui-design-role-2",
+    "specialtyId": "ux-ui-design",
+    "nameAr": "باحث مستخدم",
+    "nameEn": "User Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "civil-engineering-role-0",
+    "specialtyId": "civil-engineering",
+    "nameAr": "مهندس موقع",
+    "nameEn": "Site Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "civil-engineering-role-1",
+    "specialtyId": "civil-engineering",
+    "nameAr": "مهندس إنشائي",
+    "nameEn": "Structural Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "civil-engineering-role-2",
+    "specialtyId": "civil-engineering",
+    "nameAr": "مهندس بنية تحتية",
+    "nameEn": "Infrastructure Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "civil-engineering-role-90",
+    "specialtyId": "civil-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "architecture-role-0",
+    "specialtyId": "architecture",
+    "nameAr": "معماري",
+    "nameEn": "Architect",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "architecture-role-1",
+    "specialtyId": "architecture",
+    "nameAr": "مصمم مبانٍ",
+    "nameEn": "Building Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "architecture-role-2",
+    "specialtyId": "architecture",
+    "nameAr": "منسق نمذجة معلومات",
+    "nameEn": "BIM Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "architecture-role-90",
+    "specialtyId": "architecture",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechanical-engineering-role-0",
+    "specialtyId": "mechanical-engineering",
+    "nameAr": "مهندس ميكانيكي",
+    "nameEn": "Mechanical Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechanical-engineering-role-1",
+    "specialtyId": "mechanical-engineering",
+    "nameAr": "مهندس صيانة",
+    "nameEn": "Maintenance Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechanical-engineering-role-2",
+    "specialtyId": "mechanical-engineering",
+    "nameAr": "مهندس تصميم منتجات",
+    "nameEn": "Product Design Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechanical-engineering-role-90",
+    "specialtyId": "mechanical-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electrical-engineering-role-0",
+    "specialtyId": "electrical-engineering",
+    "nameAr": "مهندس قدرة",
+    "nameEn": "Power Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electrical-engineering-role-1",
+    "specialtyId": "electrical-engineering",
+    "nameAr": "مهندس تحكم",
+    "nameEn": "Control Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electrical-engineering-role-2",
+    "specialtyId": "electrical-engineering",
+    "nameAr": "مهندس صيانة كهربائية",
+    "nameEn": "Electrical Maintenance Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electrical-engineering-role-3",
+    "specialtyId": "electrical-engineering",
+    "nameAr": "مهندس كهربائي",
+    "nameEn": "Electrical Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electrical-engineering-role-90",
+    "specialtyId": "electrical-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electronics-engineering-role-0",
+    "specialtyId": "electronics-engineering",
+    "nameAr": "مهندس إلكترونيات",
+    "nameEn": "Electronics Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electronics-engineering-role-1",
+    "specialtyId": "electronics-engineering",
+    "nameAr": "مهندس تصميم دوائر",
+    "nameEn": "Circuit Design Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electronics-engineering-role-2",
+    "specialtyId": "electronics-engineering",
+    "nameAr": "مهندس اختبار أجهزة",
+    "nameEn": "Device Test Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "electronics-engineering-role-90",
+    "specialtyId": "electronics-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "telecommunications-engineering-role-0",
+    "specialtyId": "telecommunications-engineering",
+    "nameAr": "مهندس اتصالات",
+    "nameEn": "Telecommunications Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "telecommunications-engineering-role-1",
+    "specialtyId": "telecommunications-engineering",
+    "nameAr": "مهندس ترددات",
+    "nameEn": "RF Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "telecommunications-engineering-role-2",
+    "specialtyId": "telecommunications-engineering",
+    "nameAr": "مهندس تحسين شبكات",
+    "nameEn": "Network Optimization Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "telecommunications-engineering-role-90",
+    "specialtyId": "telecommunications-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechatronics-engineering-role-0",
+    "specialtyId": "mechatronics-engineering",
+    "nameAr": "مهندس ميكاترونكس",
+    "nameEn": "Mechatronics Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechatronics-engineering-role-1",
+    "specialtyId": "mechatronics-engineering",
+    "nameAr": "مهندس أتمتة",
+    "nameEn": "Automation Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechatronics-engineering-role-2",
+    "specialtyId": "mechatronics-engineering",
+    "nameAr": "مهندس صيانة ذكية",
+    "nameEn": "Smart Maintenance Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "mechatronics-engineering-role-90",
+    "specialtyId": "mechatronics-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "robotics-engineering-role-0",
+    "specialtyId": "robotics-engineering",
+    "nameAr": "مهندس روبوتات",
+    "nameEn": "Robotics Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "robotics-engineering-role-1",
+    "specialtyId": "robotics-engineering",
+    "nameAr": "مهندس تحكم حركة",
+    "nameEn": "Motion Control Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "robotics-engineering-role-2",
+    "specialtyId": "robotics-engineering",
+    "nameAr": "مهندس تكامل آلي",
+    "nameEn": "Automation Integration Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "robotics-engineering-role-90",
+    "specialtyId": "robotics-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "industrial-engineering-role-0",
+    "specialtyId": "industrial-engineering",
+    "nameAr": "مهندس صناعي",
+    "nameEn": "Industrial Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "industrial-engineering-role-1",
+    "specialtyId": "industrial-engineering",
+    "nameAr": "مهندس جودة",
+    "nameEn": "Quality Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "industrial-engineering-role-2",
+    "specialtyId": "industrial-engineering",
+    "nameAr": "محلل عمليات",
+    "nameEn": "Operations Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "industrial-engineering-role-90",
+    "specialtyId": "industrial-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "chemical-engineering-role-0",
+    "specialtyId": "chemical-engineering",
+    "nameAr": "مهندس عمليات",
+    "nameEn": "Process Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "chemical-engineering-role-1",
+    "specialtyId": "chemical-engineering",
+    "nameAr": "مهندس إنتاج",
+    "nameEn": "Production Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "chemical-engineering-role-2",
+    "specialtyId": "chemical-engineering",
+    "nameAr": "مهندس سلامة عمليات",
+    "nameEn": "Process Safety Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "chemical-engineering-role-90",
+    "specialtyId": "chemical-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "renewable-energy-engineering-role-0",
+    "specialtyId": "renewable-energy-engineering",
+    "nameAr": "مهندس طاقة متجددة",
+    "nameEn": "Renewable Energy Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "renewable-energy-engineering-role-1",
+    "specialtyId": "renewable-energy-engineering",
+    "nameAr": "مهندس أنظمة شمسية",
+    "nameEn": "Solar Systems Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "renewable-energy-engineering-role-2",
+    "specialtyId": "renewable-energy-engineering",
+    "nameAr": "محلل كفاءة طاقة",
+    "nameEn": "Energy Efficiency Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "renewable-energy-engineering-role-90",
+    "specialtyId": "renewable-energy-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "biomedical-engineering-role-0",
+    "specialtyId": "biomedical-engineering",
+    "nameAr": "مهندس أجهزة طبية",
+    "nameEn": "Medical Devices Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "biomedical-engineering-role-1",
+    "specialtyId": "biomedical-engineering",
+    "nameAr": "مهندس سريري",
+    "nameEn": "Clinical Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "biomedical-engineering-role-2",
+    "specialtyId": "biomedical-engineering",
+    "nameAr": "مهندس جودة أجهزة",
+    "nameEn": "Device Quality Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "biomedical-engineering-role-90",
+    "specialtyId": "biomedical-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "aerospace-engineering-role-0",
+    "specialtyId": "aerospace-engineering",
+    "nameAr": "مهندس هياكل طيران",
+    "nameEn": "Aircraft Structures Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "aerospace-engineering-role-1",
+    "specialtyId": "aerospace-engineering",
+    "nameAr": "مهندس ديناميكا هوائية",
+    "nameEn": "Aerodynamics Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "aerospace-engineering-role-2",
+    "specialtyId": "aerospace-engineering",
+    "nameAr": "مهندس أنظمة طيران",
+    "nameEn": "Avionics Systems Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "aerospace-engineering-role-90",
+    "specialtyId": "aerospace-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "automotive-engineering-role-0",
+    "specialtyId": "automotive-engineering",
+    "nameAr": "مهندس مركبات",
+    "nameEn": "Vehicle Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "automotive-engineering-role-1",
+    "specialtyId": "automotive-engineering",
+    "nameAr": "مهندس اختبار",
+    "nameEn": "Test Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "automotive-engineering-role-2",
+    "specialtyId": "automotive-engineering",
+    "nameAr": "مهندس أنظمة كهربائية للسيارات",
+    "nameEn": "Automotive Electrical Systems Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "automotive-engineering-role-90",
+    "specialtyId": "automotive-engineering",
+    "nameAr": "المسار الهندسي الحكومي",
+    "nameEn": "Government Engineering Track",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للمهندسين",
+    "regulatorUrl": "https://www.saudieng.sa/"
+  },
+  {
+    "id": "medicine-role-0",
+    "specialtyId": "medicine",
+    "nameAr": "طبيب عام",
+    "nameEn": "General Practitioner",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medicine-role-1",
+    "specialtyId": "medicine",
+    "nameAr": "طبيب مقيم",
+    "nameEn": "Resident Physician",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medicine-role-2",
+    "specialtyId": "medicine",
+    "nameAr": "باحث سريري",
+    "nameEn": "Clinical Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "dentistry-role-0",
+    "specialtyId": "dentistry",
+    "nameAr": "طبيب أسنان عام",
+    "nameEn": "General Dentist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "dentistry-role-1",
+    "specialtyId": "dentistry",
+    "nameAr": "ممارس صحة فم",
+    "nameEn": "Oral Health Practitioner",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "dentistry-role-2",
+    "specialtyId": "dentistry",
+    "nameAr": "باحث أسنان",
+    "nameEn": "Dental Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "pharmacy-role-0",
+    "specialtyId": "pharmacy",
+    "nameAr": "صيدلي",
+    "nameEn": "Pharmacist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "pharmacy-role-1",
+    "specialtyId": "pharmacy",
+    "nameAr": "صيدلي سريري",
+    "nameEn": "Clinical Pharmacist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "pharmacy-role-2",
+    "specialtyId": "pharmacy",
+    "nameAr": "أخصائي جودة دوائية",
+    "nameEn": "Pharmaceutical Quality Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "nursing-role-0",
+    "specialtyId": "nursing",
+    "nameAr": "ممرض مسجل",
+    "nameEn": "Registered Nurse",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "nursing-role-1",
+    "specialtyId": "nursing",
+    "nameAr": "ممرض رعاية حرجة",
+    "nameEn": "Critical Care Nurse",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "nursing-role-2",
+    "specialtyId": "nursing",
+    "nameAr": "مثقف صحي",
+    "nameEn": "Health Educator",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "physical-therapy-role-0",
+    "specialtyId": "physical-therapy",
+    "nameAr": "أخصائي علاج طبيعي",
+    "nameEn": "Physical Therapist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "physical-therapy-role-1",
+    "specialtyId": "physical-therapy",
+    "nameAr": "أخصائي تأهيل حركي",
+    "nameEn": "Movement Rehabilitation Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "physical-therapy-role-2",
+    "specialtyId": "physical-therapy",
+    "nameAr": "باحث حركة",
+    "nameEn": "Movement Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medical-laboratory-sciences-role-0",
+    "specialtyId": "medical-laboratory-sciences",
+    "nameAr": "أخصائي مختبر طبي",
+    "nameEn": "Medical Laboratory Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medical-laboratory-sciences-role-1",
+    "specialtyId": "medical-laboratory-sciences",
+    "nameAr": "أخصائي جودة مختبر",
+    "nameEn": "Laboratory Quality Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medical-laboratory-sciences-role-2",
+    "specialtyId": "medical-laboratory-sciences",
+    "nameAr": "باحث مختبري",
+    "nameEn": "Laboratory Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medical-imaging-role-0",
+    "specialtyId": "medical-imaging",
+    "nameAr": "أخصائي أشعة",
+    "nameEn": "Radiology Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medical-imaging-role-1",
+    "specialtyId": "medical-imaging",
+    "nameAr": "تقني تصوير مقطعي",
+    "nameEn": "CT Scan Technologist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "medical-imaging-role-2",
+    "specialtyId": "medical-imaging",
+    "nameAr": "تقني رنين مغناطيسي",
+    "nameEn": "MRI Technologist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "nutrition-role-0",
+    "specialtyId": "nutrition",
+    "nameAr": "أخصائي تغذية",
+    "nameEn": "Nutrition Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "nutrition-role-1",
+    "specialtyId": "nutrition",
+    "nameAr": "مثقف غذائي",
+    "nameEn": "Nutrition Educator",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "nutrition-role-2",
+    "specialtyId": "nutrition",
+    "nameAr": "أخصائي تغذية مجتمعية",
+    "nameEn": "Community Nutrition Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "public-health-role-0",
+    "specialtyId": "public-health",
+    "nameAr": "أخصائي صحة عامة",
+    "nameEn": "Public Health Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "public-health-role-1",
+    "specialtyId": "public-health",
+    "nameAr": "محلل وبائيات",
+    "nameEn": "Epidemiology Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "public-health-role-2",
+    "specialtyId": "public-health",
+    "nameAr": "منسق برامج صحية",
+    "nameEn": "Health Programs Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "occupational-therapy-role-0",
+    "specialtyId": "occupational-therapy",
+    "nameAr": "أخصائي علاج وظيفي",
+    "nameEn": "Occupational Therapist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "occupational-therapy-role-1",
+    "specialtyId": "occupational-therapy",
+    "nameAr": "أخصائي تأهيل مجتمعي",
+    "nameEn": "Community Rehabilitation Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "occupational-therapy-role-2",
+    "specialtyId": "occupational-therapy",
+    "nameAr": "أخصائي تقنيات مساعدة",
+    "nameEn": "Assistive Technology Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "الهيئة السعودية للتخصصات الصحية",
+    "regulatorUrl": "https://scfhs.org.sa/ar/Mumares"
+  },
+  {
+    "id": "business-administration-role-0",
+    "specialtyId": "business-administration",
+    "nameAr": "محلل أعمال",
+    "nameEn": "Business Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "business-administration-role-1",
+    "specialtyId": "business-administration",
+    "nameAr": "منسق عمليات",
+    "nameEn": "Operations Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "business-administration-role-2",
+    "specialtyId": "business-administration",
+    "nameAr": "مساعد إداري",
+    "nameEn": "Administrative Assistant",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "business-administration-role-3",
+    "specialtyId": "business-administration",
+    "nameAr": "مدير عمليات",
+    "nameEn": "Operations Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "accounting-role-0",
+    "specialtyId": "accounting",
+    "nameAr": "محاسب",
+    "nameEn": "Accountant",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "accounting-role-1",
+    "specialtyId": "accounting",
+    "nameAr": "مدقق داخلي",
+    "nameEn": "Internal Auditor",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "accounting-role-2",
+    "specialtyId": "accounting",
+    "nameAr": "محلل تكاليف",
+    "nameEn": "Cost Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "accounting-role-3",
+    "specialtyId": "accounting",
+    "nameAr": "محاسب أول",
+    "nameEn": "Senior Accountant",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "finance-role-0",
+    "specialtyId": "finance",
+    "nameAr": "محلل مالي",
+    "nameEn": "Financial Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "finance-role-1",
+    "specialtyId": "finance",
+    "nameAr": "محلل استثمار",
+    "nameEn": "Investment Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "finance-role-2",
+    "specialtyId": "finance",
+    "nameAr": "محلل مخاطر",
+    "nameEn": "Risk Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "finance-role-3",
+    "specialtyId": "finance",
+    "nameAr": "مدير مالي",
+    "nameEn": "Finance Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "marketing-role-0",
+    "specialtyId": "marketing",
+    "nameAr": "أخصائي تسويق",
+    "nameEn": "Marketing Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "marketing-role-1",
+    "specialtyId": "marketing",
+    "nameAr": "باحث سوق",
+    "nameEn": "Market Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "marketing-role-2",
+    "specialtyId": "marketing",
+    "nameAr": "مدير علامة مساعد",
+    "nameEn": "Assistant Brand Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "marketing-role-3",
+    "specialtyId": "marketing",
+    "nameAr": "مدير تسويق",
+    "nameEn": "Marketing Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "marketing-role-4",
+    "specialtyId": "marketing",
+    "nameAr": "مدير تسويق إقليمي",
+    "nameEn": "Regional Marketing Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "digital-marketing-role-0",
+    "specialtyId": "digital-marketing",
+    "nameAr": "أخصائي تسويق رقمي",
+    "nameEn": "Digital Marketing Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "digital-marketing-role-1",
+    "specialtyId": "digital-marketing",
+    "nameAr": "أخصائي محتوى",
+    "nameEn": "Content Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "digital-marketing-role-2",
+    "specialtyId": "digital-marketing",
+    "nameAr": "محلل نمو",
+    "nameEn": "Growth Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "human-resources-management-role-0",
+    "specialtyId": "human-resources-management",
+    "nameAr": "أخصائي موارد بشرية",
+    "nameEn": "Human Resources Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "human-resources-management-role-1",
+    "specialtyId": "human-resources-management",
+    "nameAr": "أخصائي استقطاب",
+    "nameEn": "Talent Acquisition Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "human-resources-management-role-2",
+    "specialtyId": "human-resources-management",
+    "nameAr": "منسق تعلم وتطوير",
+    "nameEn": "Learning and Development Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "human-resources-management-role-3",
+    "specialtyId": "human-resources-management",
+    "nameAr": "مدير موارد بشرية",
+    "nameEn": "Human Resources Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "project-management-role-0",
+    "specialtyId": "project-management",
+    "nameAr": "منسق مشاريع",
+    "nameEn": "Project Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "project-management-role-1",
+    "specialtyId": "project-management",
+    "nameAr": "محلل PMO",
+    "nameEn": "PMO Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "project-management-role-2",
+    "specialtyId": "project-management",
+    "nameAr": "مدير مشروع مساعد",
+    "nameEn": "Assistant Project Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "project-management-role-3",
+    "specialtyId": "project-management",
+    "nameAr": "مدير مشروع تقنية معلومات",
+    "nameEn": "IT Project Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "entrepreneurship-role-0",
+    "specialtyId": "entrepreneurship",
+    "nameAr": "مؤسس مشروع",
+    "nameEn": "Startup Founder",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "entrepreneurship-role-1",
+    "specialtyId": "entrepreneurship",
+    "nameAr": "محلل ابتكار",
+    "nameEn": "Innovation Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "entrepreneurship-role-2",
+    "specialtyId": "entrepreneurship",
+    "nameAr": "منسق حاضنة أعمال",
+    "nameEn": "Business Incubator Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "supply-chain-management-role-0",
+    "specialtyId": "supply-chain-management",
+    "nameAr": "محلل سلسلة إمداد",
+    "nameEn": "Supply Chain Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "supply-chain-management-role-1",
+    "specialtyId": "supply-chain-management",
+    "nameAr": "مخطط طلب",
+    "nameEn": "Demand Planner",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "supply-chain-management-role-2",
+    "specialtyId": "supply-chain-management",
+    "nameAr": "أخصائي مشتريات",
+    "nameEn": "Procurement Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "supply-chain-management-role-3",
+    "specialtyId": "supply-chain-management",
+    "nameAr": "مدير سلسلة إمداد",
+    "nameEn": "Supply Chain Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "supply-chain-management-role-4",
+    "specialtyId": "supply-chain-management",
+    "nameAr": "منسق لوجستيات",
+    "nameEn": "Logistics Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "e-commerce-role-0",
+    "specialtyId": "e-commerce",
+    "nameAr": "أخصائي تجارة إلكترونية",
+    "nameEn": "E-Commerce Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "e-commerce-role-1",
+    "specialtyId": "e-commerce",
+    "nameAr": "مدير متجر رقمي",
+    "nameEn": "Digital Store Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "e-commerce-role-2",
+    "specialtyId": "e-commerce",
+    "nameAr": "محلل عمليات رقمية",
+    "nameEn": "Digital Operations Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "law-role-0",
+    "specialtyId": "law",
+    "nameAr": "باحث قانوني",
+    "nameEn": "Legal Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "law-role-1",
+    "specialtyId": "law",
+    "nameAr": "مساعد قانوني",
+    "nameEn": "Legal Assistant",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "law-role-2",
+    "specialtyId": "law",
+    "nameAr": "محامٍ بعد استيفاء الترخيص",
+    "nameEn": "Lawyer (after completing licensure)",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "psychology-role-0",
+    "specialtyId": "psychology",
+    "nameAr": "مساعد باحث",
+    "nameEn": "Research Assistant",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "psychology-role-1",
+    "specialtyId": "psychology",
+    "nameAr": "أخصائي موارد بشرية",
+    "nameEn": "Human Resources Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "psychology-role-2",
+    "specialtyId": "psychology",
+    "nameAr": "أخصائي نفسي بعد تأهيل وترخيص إضافي",
+    "nameEn": "Psychologist (after further qualification and licensure)",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "education-role-0",
+    "specialtyId": "education",
+    "nameAr": "معلم",
+    "nameEn": "Teacher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "education-role-1",
+    "specialtyId": "education",
+    "nameAr": "مصمم تعلم",
+    "nameEn": "Instructional Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "education-role-2",
+    "specialtyId": "education",
+    "nameAr": "منسق برامج تعليمية",
+    "nameEn": "Educational Programs Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "graphic-design-role-0",
+    "specialtyId": "graphic-design",
+    "nameAr": "مصمم جرافيكي",
+    "nameEn": "Graphic Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "graphic-design-role-1",
+    "specialtyId": "graphic-design",
+    "nameAr": "مصمم علامة",
+    "nameEn": "Brand Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "graphic-design-role-2",
+    "specialtyId": "graphic-design",
+    "nameAr": "مصمم محتوى بصري",
+    "nameEn": "Visual Content Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "interior-design-role-0",
+    "specialtyId": "interior-design",
+    "nameAr": "مصمم داخلي",
+    "nameEn": "Interior Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "interior-design-role-1",
+    "specialtyId": "interior-design",
+    "nameAr": "مصمم مساحات",
+    "nameEn": "Space Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "interior-design-role-2",
+    "specialtyId": "interior-design",
+    "nameAr": "منسق مواد وتشطيبات",
+    "nameEn": "Materials and Finishes Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "media-journalism-role-0",
+    "specialtyId": "media-journalism",
+    "nameAr": "صحفي",
+    "nameEn": "Journalist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "media-journalism-role-1",
+    "specialtyId": "media-journalism",
+    "nameAr": "محرر محتوى",
+    "nameEn": "Content Editor",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "media-journalism-role-2",
+    "specialtyId": "media-journalism",
+    "nameAr": "منتج رقمي",
+    "nameEn": "Digital Producer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "translation-role-0",
+    "specialtyId": "translation",
+    "nameAr": "مترجم",
+    "nameEn": "Translator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "translation-role-1",
+    "specialtyId": "translation",
+    "nameAr": "محرر لغوي",
+    "nameEn": "Language Editor",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "translation-role-2",
+    "specialtyId": "translation",
+    "nameAr": "مدير مصطلحات",
+    "nameEn": "Terminology Manager",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "agricultural-engineering-role-0",
+    "specialtyId": "agricultural-engineering",
+    "nameAr": "مهندس ري",
+    "nameEn": "Irrigation Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "agricultural-engineering-role-1",
+    "specialtyId": "agricultural-engineering",
+    "nameAr": "مهندس معدات زراعية",
+    "nameEn": "Agricultural Equipment Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "agricultural-engineering-role-2",
+    "specialtyId": "agricultural-engineering",
+    "nameAr": "مهندس منشآت زراعية",
+    "nameEn": "Agricultural Structures Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "veterinary-medicine-role-0",
+    "specialtyId": "veterinary-medicine",
+    "nameAr": "طبيب بيطري",
+    "nameEn": "Veterinarian",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "veterinary-medicine-role-1",
+    "specialtyId": "veterinary-medicine",
+    "nameAr": "مفتش صحة حيوانية",
+    "nameEn": "Animal Health Inspector",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "veterinary-medicine-role-2",
+    "specialtyId": "veterinary-medicine",
+    "nameAr": "باحث بيطري",
+    "nameEn": "Veterinary Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "tourism-hospitality-role-0",
+    "specialtyId": "tourism-hospitality",
+    "nameAr": "مشرف ضيافة",
+    "nameEn": "Hospitality Supervisor",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "tourism-hospitality-role-1",
+    "specialtyId": "tourism-hospitality",
+    "nameAr": "منسق فعاليات",
+    "nameEn": "Events Coordinator",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "tourism-hospitality-role-2",
+    "specialtyId": "tourism-hospitality",
+    "nameAr": "أخصائي عمليات سياحية",
+    "nameEn": "Tourism Operations Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "civil-engineering-role-global",
+    "specialtyId": "civil-engineering",
+    "nameAr": "مهندس مدني",
+    "nameEn": "Civil Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "data-science-role-analyst",
+    "specialtyId": "data-science",
+    "nameAr": "محلل بيانات",
+    "nameEn": "Data Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "ux-ui-design-role-global",
+    "specialtyId": "ux-ui-design",
+    "nameAr": "مصمم UI/UX",
+    "nameEn": "UI/UX Designer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "accounting-role-financial",
+    "specialtyId": "accounting",
+    "nameAr": "محاسب مالي",
+    "nameEn": "Financial Accountant",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "nuclear-engineering-role-0",
+    "specialtyId": "nuclear-engineering",
+    "nameAr": "مهندس أنظمة أو جودة نووية",
+    "nameEn": "Nuclear Systems or Quality Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "هيئة الرقابة النووية والإشعاعية",
+    "regulatorUrl": "https://nrrc.gov.sa/"
+  },
+  {
+    "id": "nuclear-physics-role-0",
+    "specialtyId": "nuclear-physics",
+    "nameAr": "باحث فيزياء نووية",
+    "nameEn": "Nuclear Physics Researcher",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "radiation-protection-role-0",
+    "specialtyId": "radiation-protection",
+    "nameAr": "أخصائي حماية من الإشعاع",
+    "nameEn": "Radiation Protection Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": "هيئة الرقابة النووية والإشعاعية",
+    "regulatorUrl": "https://nrrc.gov.sa/"
+  },
+  {
+    "id": "medical-physics-role-0",
+    "specialtyId": "medical-physics",
+    "nameAr": "فيزيائي طبي",
+    "nameEn": "Medical Physicist",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "nuclear-medicine-role-0",
+    "specialtyId": "nuclear-medicine",
+    "nameAr": "ممارس في الطب النووي",
+    "nameEn": "Nuclear Medicine Practitioner",
+    "saudiOccupationCode": null,
+    "requiresLicense": true,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "radiation-instrumentation-engineering-role-0",
+    "specialtyId": "radiation-instrumentation-engineering",
+    "nameAr": "مهندس قياس إشعاعي",
+    "nameEn": "Radiation Instrumentation Engineer",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "radioactive-waste-management-role-0",
+    "specialtyId": "radioactive-waste-management",
+    "nameAr": "أخصائي امتثال بيئي",
+    "nameEn": "Environmental Compliance Specialist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "nuclear-security-safeguards-role-0",
+    "specialtyId": "nuclear-security-safeguards",
+    "nameAr": "محلل امتثال وضمانات",
+    "nameEn": "Safeguards and Compliance Analyst",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  },
+  {
+    "id": "nuclear-geology-uranium-exploration-role-0",
+    "specialtyId": "nuclear-geology-uranium-exploration",
+    "nameAr": "جيولوجي موارد وبيئة",
+    "nameEn": "Resources and Environmental Geologist",
+    "saudiOccupationCode": null,
+    "requiresLicense": false,
+    "regulatorName": null,
+    "regulatorUrl": null
+  }
+]
