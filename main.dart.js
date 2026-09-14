@@ -130776,11 +130776,11 @@ $0(){return A.bT(this.a).cm("/premium/guides/"+this.b.a,null)},
 $S:0}
 A.aeT.prototype={
 t(a){var s,r,q=null,p=A.j(a),o=A.j(a).ax.a===B.aD,n=p.ax.k2
-p=o?0.55:0.12
+p=o?0.78:0.14
 p=A.na(A.xP("assets/images/domains/guides-index.webp",B.a1,q,q,new A.b2s(),!0,B.cX,B.j3,q,q),p)
-s=n.aI(o?0.35:0.7)
-r=n.aI(o?0.68:0.86)
-return A.Cb(A.eG(B.ba,A.a([p,A.jp(q,new A.aX(q,q,q,q,q,new A.fJ(B.e1,B.e0,B.bw,A.a([s,r,n.aI(o?0.88:0.95)],t.Y),B.CX,q),B.z),B.bG),this.c],t.p),B.x,B.uo,q),n,!0)}}
+s=n.aI(o?0.24:0.68)
+r=n.aI(o?0.56:0.84)
+return A.Cb(A.eG(B.ba,A.a([p,A.jp(q,new A.aX(q,q,q,q,q,new A.fJ(B.e1,B.e0,B.bw,A.a([s,r,n.aI(o?0.8:0.94)],t.Y),B.CX,q),B.z),B.bG),this.c],t.p),B.x,B.uo,q),n,!0)}}
 A.b2s.prototype={
 $3(a,b,c){return B.a9},
 $S:101}
